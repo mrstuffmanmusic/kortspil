@@ -2,8 +2,8 @@ String[] kulor    = {"C", "D", "H", "S"};
 String[] vaerdi   = {"A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3", "2"};
 
 
-String[] kulor1    = {"hjerter", "klor", "ruder", "spar"};
-String[] vaerdi2   = {"ES", "K", "D", "J", "10", "9", "8", "7", "6", "5", "4", "3", "2"};
+String[] kulor1    = {"C", "D", "H", "S"};
+String[] vaerdi2   = {"A", "K", "Q", "J", "10", "9", "8", "7", "6", "5", "4", "3", "2"};
 
 String[] kortTekster  = new String[52];
 PImage[] kortBilleder = new PImage[52];
