@@ -61,7 +61,10 @@ void setup() {
 
 
 void draw() {
-
+  
+vistBillede = loadImage("back_cards-07.png"); 
+vistBillede.resize(200, 100);
+image(vistBillede,200,10);
 }
 
 void mousePressed() {
